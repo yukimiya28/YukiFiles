@@ -13,6 +13,6 @@ if /i "%choice%" == "y" (
   goto start
 )
 
-C:\Yuki\Drivers\NvidiaYuki.exe
+C:\Yuki\Drivers\NvidiaHone.exe
 
 goto 2>nul & del "%~f0"
